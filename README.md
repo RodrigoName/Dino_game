@@ -1,2 +1,3 @@
 # Dino_game
- Dino_game_offline
+
+Project carried out during the bootcamp DIO (Digital Innovation One) : JavaScript Game Developer
